@@ -9,7 +9,7 @@ namespace SamplePlugins
 {
     public class CreateTask : IPlugin
     {
-        /// A plug-in that creates a follow-up task activity when a new account is created.
+        /// plug-in that creates a follow-up task activity when a new account is created.
         /// Register this plug-in on the Create message, account entity,
         /// and asynchronous mode.
 
